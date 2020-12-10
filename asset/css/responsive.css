@@ -1,0 +1,104 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    
+    
+
+
+}
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #header{
+        display: none;
+    }
+    #mobileHeader{
+        display: block;
+    }
+    #videoPopupModal .modal-body iframe {
+        width: 100%;
+        height: 272px;
+    }
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    #footerTop .footerLogo .footerInfoContainer {
+        display: none;
+    }
+    #footerTop .footerSocialLink {
+        display: none;
+    }
+    #footerTop .footerRght{
+        display: none;
+    }
+    #footerTop {
+        padding: 23px 0px;
+    }
+    #footerMobile{
+        display: block;
+    }
+    #footerTop .footerLogo .logo a img {
+        height: 25px;
+        margin-bottom: 1px;
+    }
+    #footerTop .footerLogo .logo a p{
+        font-size: 11px;
+    }
+    #header{
+        display: none;
+    }
+    #mobileHeader{
+        display: block;
+    }
+    #videoPopupModal .modal-body iframe {
+        width: 100%;
+        height: 190px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
